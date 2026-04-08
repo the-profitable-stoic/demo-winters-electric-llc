@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-winters-electric-llc.dream-surge.com/sitemap-index.xml

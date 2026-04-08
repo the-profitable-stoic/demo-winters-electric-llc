@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Winters Electric LLC",
+    "phone": "+12088883224",
+    "category": "electrician",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Powering Boise Homes & Businesses",
+      "heroSubline": "Reliable electrical services from experienced professionals. Serving Boise and surrounding areas with integrity and expertise.",
+      "aboutTitle": "Winters Electric: Your Trusted Boise Electrician",
+      "aboutText": [
+        "Winters Electric LLC was founded over a decade ago with a simple mission: to provide honest, reliable electrical services to our neighbors in Boise and beyond. We started small, wiring homes in the North End and slowly building a reputation for quality workmanship and unwavering commitment to safety.",
+        "Our approach is straightforward: we listen to your needs, offer clear and transparent solutions, and execute our work with precision and care. We value integrity above all else, ensuring every project meets the highest standards of quality and code compliance. We're not just electricians; we're problem solvers dedicated to keeping your home or business powered safely and efficiently.",
+        "We are deeply rooted in the Boise community. We support local schools and organizations, and we believe in giving back to the city that has given us so much. From sponsoring youth sports teams to volunteering our electrical expertise for community projects, Winters Electric is committed to making Boise a better place to live and work."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Decades of combined experience handling any electrical challenge."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises. We provide clear, detailed estimates before work begins."
+        },
+        {
+          "title": "Safety First",
+          "description": "Licensed, bonded, and insured for your peace of mind."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "We're available around the clock to handle urgent electrical issues."
+        }
+      ],
+      "ctaHeadline": "Need an Electrician?",
+      "ctaSubline": "Contact Winters Electric today for a free quote and reliable electrical solutions."
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair Services",
+        "shortDescription": "Fast, reliable repairs for any electrical issue in your home or business.",
+        "description": "Winters Electric provides comprehensive electrical repair services throughout Boise and surrounding areas. From flickering lights and faulty outlets to complete power outages, our experienced electricians can quickly diagnose and resolve any electrical problem. We understand the importance of a safe and functional electrical system, especially during Boise's harsh weather extremes. Whether it's repairing damage from summer thunderstorms or addressing overloaded circuits during the winter months, we're equipped to handle it all.\n\nWe prioritize safety and efficiency in every repair. Our team uses advanced diagnostic tools to pinpoint the root cause of the issue and implement lasting solutions. We also ensure that all repairs meet current electrical codes and regulations, protecting your property and your family. We handle everything from minor repairs, like replacing damaged wiring, to major repairs, like fixing faulty electrical panels. \n\nWinters Electric stands behind our work. We offer a satisfaction guarantee on all repairs, so you can rest assured that you're receiving the highest quality service. Don't let electrical problems disrupt your life – call Winters Electric for prompt and professional repair services.",
+        "process": [
+          "Step 1: Call us to describe your electrical issue.",
+          "Step 2: We schedule a convenient appointment time.",
+          "Step 3: Our electrician diagnoses the problem and provides a detailed estimate.",
+          "Step 4: We complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Fast response times",
+          "Accurate diagnosis",
+          "Long-lasting repairs",
+          "Code compliance"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We offer 24/7 emergency service and strive to arrive at your location as quickly as possible, often within the hour depending on your location in the Boise area."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are fully licensed, bonded, and insured to protect you and your property."
+          },
+          {
+            "question": "What types of electrical repairs do you handle?",
+            "answer": "We handle all types of electrical repairs, from minor fixes like replacing outlets and switches to major repairs like rewiring and panel upgrades."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installations",
+        "name": "Electrical Installations",
+        "shortDescription": "Expert electrical installations for new construction, remodels, and upgrades.",
+        "description": "Winters Electric specializes in electrical installations for residential and commercial properties in Boise, ID. Whether you're building a new home in Harris Ranch, remodeling your kitchen in the North End, or upgrading your business's electrical system downtown, we have the expertise to handle any installation project. We understand the unique electrical needs of Boise's diverse housing stock, from older bungalows to modern developments.\n\nOur installation services include wiring for new construction, installing lighting fixtures, upgrading electrical panels, adding outlets and circuits, and installing smart home systems. We work closely with homeowners, contractors, and business owners to ensure that every installation meets their specific needs and complies with all local codes and regulations. We pay close attention to detail, ensuring that all wiring is properly installed and that all connections are secure. \n\nWith Winters Electric, you can be confident that your electrical installation will be done right the first time. We use only high-quality materials and employ industry-best practices to ensure long-lasting performance and safety. Contact us today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Discuss your installation needs with our team.",
+          "Step 2: We provide a detailed estimate and project plan.",
+          "Step 3: Our electricians perform the installation with precision.",
+          "Step 4: We inspect the completed work and ensure your satisfaction."
+        ],
+        "benefits": [
+          "Expert craftsmanship",
+          "Code compliance",
+          "High-quality materials",
+          "Customized solutions"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle electrical installations for new construction?",
+            "answer": "Yes, we have extensive experience with electrical installations for new residential and commercial construction projects in the Boise area."
+          },
+          {
+            "question": "Can you install smart home systems?",
+            "answer": "Absolutely! We can install and configure a wide range of smart home devices, including smart lighting, thermostats, and security systems."
+          },
+          {
+            "question": "How long does a typical electrical installation take?",
+            "answer": "The duration of an electrical installation depends on the scope of the project. We'll provide you with a realistic timeline during the consultation process."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-services",
+        "name": "Lighting Services",
+        "shortDescription": "Illuminate your home or business with our expert lighting solutions.",
+        "description": "Winters Electric offers comprehensive lighting services to enhance the beauty, functionality, and energy efficiency of your Boise property. From recessed lighting in your kitchen to landscape lighting in your backyard, we can design and install the perfect lighting solution to meet your needs and budget. We understand the importance of proper lighting, especially in Boise's long winter months.\n\nOur lighting services include indoor lighting, outdoor lighting, landscape lighting, security lighting, and energy-efficient lighting upgrades. We work with a variety of lighting styles and technologies, including LED lighting, which can significantly reduce your energy consumption and lower your utility bills. Whether you're looking to create a warm and inviting atmosphere in your home or improve the security of your business, Winters Electric has the expertise to deliver exceptional results.\n\nWe offer free lighting consultations to help you explore your options and choose the best lighting solutions for your property. Our experienced electricians will assess your needs, provide expert recommendations, and handle all aspects of the installation process. Let Winters Electric bring your vision to light – contact us today to schedule a consultation.",
+        "process": [
+          "Step 1: Schedule a free lighting consultation.",
+          "Step 2: We assess your needs and provide design recommendations.",
+          "Step 3: Our electricians install your new lighting system.",
+          "Step 4: We ensure your complete satisfaction with the results."
+        ],
+        "benefits": [
+          "Enhanced aesthetics",
+          "Improved energy efficiency",
+          "Increased security",
+          "Customized designs"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer energy-efficient lighting solutions?",
+            "answer": "Yes, we specialize in energy-efficient lighting upgrades, including LED lighting, which can save you money on your utility bills."
+          },
+          {
+            "question": "Can you help me design a landscape lighting system?",
+            "answer": "Absolutely! We can design and install a custom landscape lighting system to enhance the beauty and security of your property."
+          },
+          {
+            "question": "What types of indoor lighting do you install?",
+            "answer": "We install all types of indoor lighting, including recessed lighting, pendant lighting, chandeliers, and track lighting."
+          }
+        ]
+      },
+      {
+        "slug": "panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensure your home's electrical system is safe and up-to-date with a panel upgrade.",
+        "description": "Winters Electric provides expert electrical panel upgrades for homes and businesses in Boise, ID. An outdated or overloaded electrical panel can be a safety hazard, increasing the risk of fire and electrical shock. If your panel is tripping frequently, showing signs of corrosion, or unable to handle your modern electrical demands, it's time for an upgrade. We understand the importance of a reliable electrical panel, especially with Boise's growing reliance on technology.\n\nOur panel upgrade services include replacing old or damaged panels, increasing amperage capacity, and installing surge protection devices. We'll assess your electrical needs and recommend the appropriate panel upgrade to ensure that your system can safely and efficiently handle all of your electrical loads. We use only high-quality panels from trusted manufacturers and adhere to all local codes and regulations.\n\nWith Winters Electric, you can rest assured that your panel upgrade will be done safely and professionally. We'll handle all aspects of the project, from obtaining permits to disposing of the old panel. Protect your property and your family – contact Winters Electric today for a free panel upgrade consultation.",
+        "process": [
+          "Step 1: Schedule a panel upgrade consultation.",
+          "Step 2: We assess your electrical needs and provide a recommendation.",
+          "Step 3: We obtain the necessary permits.",
+          "Step 4: Our electricians perform the panel upgrade safely and efficiently."
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased capacity",
+          "Surge protection",
+          "Code compliance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequent tripping breakers, flickering lights, and an outdated panel."
+          },
+          {
+            "question": "What size panel do I need?",
+            "answer": "The size of the panel depends on your electrical needs. We'll assess your needs and recommend the appropriate size during the consultation."
+          },
+          {
+            "question": "How long does a panel upgrade take?",
+            "answer": "A typical panel upgrade takes one to two days to complete."
+          }
+        ]
+      },
+      {
+        "slug": "wiring-services",
+        "name": "Wiring & Rewiring Services",
+        "shortDescription": "Comprehensive wiring and rewiring services for homes and businesses throughout Boise.",
+        "description": "Winters Electric offers expert wiring and rewiring services for residential and commercial properties in Boise and surrounding areas. Whether you're building a new home, remodeling an existing space, or need to replace outdated or damaged wiring, we have the expertise to handle any wiring project. We understand the importance of safe and reliable wiring, especially in Boise's older homes.\n\nOur wiring services include new construction wiring, remodeling wiring, rewiring, and electrical code corrections. We use only high-quality wiring materials and adhere to all local codes and regulations. Our experienced electricians will ensure that your wiring is properly installed and that all connections are secure. We handle everything from running new circuits to replacing old aluminum wiring with safer copper wiring.\n\nWith Winters Electric, you can be confident that your wiring project will be done right the first time. We offer free wiring consultations to assess your needs and provide a detailed estimate. Protect your property and your family – contact Winters Electric today for reliable wiring services.",
+        "process": [
+          "Step 1: Schedule a wiring consultation.",
+          "Step 2: We assess your needs and provide a detailed estimate.",
+          "Step 3: Our electricians perform the wiring or rewiring.",
+          "Step 4: We inspect the completed work and ensure your satisfaction."
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased reliability",
+          "Code compliance",
+          "Expert craftsmanship"
+        ],
+        "faq": [
+          {
+            "question": "When should I consider rewiring my home?",
+            "answer": "If your home has outdated wiring, such as aluminum wiring, or if you're experiencing frequent electrical problems, it's time to consider rewiring."
+          },
+          {
+            "question": "Do you handle wiring for new construction?",
+            "answer": "Yes, we have extensive experience with wiring for new residential and commercial construction projects in the Boise area."
+          },
+          {
+            "question": "How much does rewiring cost?",
+            "answer": "The cost of rewiring depends on the size and complexity of the project. We'll provide you with a detailed estimate during the consultation."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Reliable electrical solutions for Boise businesses.",
+        "description": "Winters Electric provides comprehensive commercial electrical services to businesses throughout Boise, ID. We understand the unique electrical demands of commercial properties and offer a wide range of services to keep your business running smoothly and safely. From office buildings and retail stores to restaurants and industrial facilities, we have the expertise to handle any commercial electrical project. We are familiar with Boise's diverse commercial landscape and the specific electrical needs of businesses in the area.\n\nOur commercial electrical services include electrical installations, repairs, maintenance, and upgrades. We can handle everything from wiring for new construction to installing energy-efficient lighting systems. We also offer 24/7 emergency service to address urgent electrical issues. Our experienced electricians are trained to work efficiently and safely, minimizing disruption to your business operations.\n\nWith Winters Electric, you can be confident that your commercial electrical needs are in good hands. We are committed to providing reliable, cost-effective solutions that meet your specific requirements. Contact us today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Schedule a commercial electrical consultation.",
+          "Step 2: We assess your needs and provide a detailed estimate.",
+          "Step 3: Our electricians perform the work efficiently and safely.",
+          "Step 4: We ensure your complete satisfaction with the results."
+        ],
+        "benefits": [
+          "Reliable service",
+          "Cost-effective solutions",
+          "Minimal disruption",
+          "24/7 emergency service"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer maintenance contracts for commercial properties?",
+            "answer": "Yes, we offer customized maintenance contracts to ensure the ongoing reliability of your electrical system."
+          },
+          {
+            "question": "Can you help me upgrade to energy-efficient lighting?",
+            "answer": "Absolutely! We can design and install energy-efficient lighting systems that will save you money on your utility bills."
+          },
+          {
+            "question": "What types of commercial properties do you serve?",
+            "answer": "We serve a wide range of commercial properties, including office buildings, retail stores, restaurants, and industrial facilities."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "Winters Electric LLC is proud to provide top-notch electrical services to the residents and businesses of Boise, Idaho. As the state's capital and largest city, Boise presents unique electrical needs, from historic homes requiring careful wiring upgrades to modern commercial buildings demanding efficient and reliable power solutions. Our team of licensed and experienced electricians is well-versed in addressing the diverse electrical challenges faced by Boise residents. We are committed to delivering safe, effective, and affordable solutions, ensuring your electrical systems operate flawlessly. \n\nWhether you're dealing with flickering lights, a faulty outlet, or require a complete electrical system overhaul, Winters Electric LLC is here to help. We offer a comprehensive range of services, including electrical repairs, installations, panel upgrades, lighting solutions, and more. Our dedication to quality workmanship and customer satisfaction has made us a trusted name in the Boise community. Contact us today to schedule a consultation and experience the Winters Electric LLC difference.\n\nWinters Electric LLC understands the importance of energy efficiency in Boise. We offer services such as LED lighting upgrades and smart home integrations to help you save money on your energy bills and reduce your carbon footprint.",
+        "localContext": "Boise's blend of urban living and outdoor recreation creates a unique demand for reliable electrical services that can support both modern amenities and recreational equipment.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Eagle"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "Winters Electric LLC extends its expert electrical services to the thriving community of Meridian, Idaho. As one of the fastest-growing cities in Idaho, Meridian boasts a mix of residential neighborhoods and commercial developments, each with unique electrical requirements. Whether you're a homeowner in need of a safety inspection or a business owner looking for reliable power solutions, Winters Electric LLC is equipped to handle all your electrical needs. \n\nOur team of skilled electricians is committed to providing top-quality service to the residents of Meridian. We offer a wide range of services, including electrical repairs, installations, panel upgrades, lighting solutions, and more. We pride ourselves on our prompt response times, transparent pricing, and unwavering commitment to customer satisfaction. Trust Winters Electric LLC to keep your home or business powered safely and efficiently. \n\nWinters Electric LLC is also experienced in handling the specific electrical needs of new construction projects in Meridian, ensuring that your new home or business is wired to meet the latest safety standards and energy efficiency requirements.",
+        "localContext": "Meridian's rapid growth necessitates reliable and scalable electrical solutions for its expanding residential and commercial sectors.",
+        "nearbyAreas": [
+          "Boise",
+          "Nampa",
+          "Eagle"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "Winters Electric LLC is dedicated to providing exceptional electrical services to the residents and businesses of Nampa, Idaho. As the largest city in Canyon County, Nampa presents a diverse range of electrical needs, from older homes requiring rewiring to modern businesses demanding efficient and reliable power systems. Our team of experienced electricians is well-equipped to handle any electrical challenge, big or small. We are committed to delivering safe, effective, and affordable solutions, ensuring your electrical systems operate at peak performance. \n\nWhether you're dealing with a power outage, need a new electrical panel installed, or are looking to upgrade your lighting fixtures, Winters Electric LLC is here to help. We offer a comprehensive range of services, including electrical repairs, installations, panel upgrades, lighting solutions, and more. Our dedication to quality workmanship and customer satisfaction has made us a trusted name in the Nampa community. Contact us today to schedule a consultation and experience the Winters Electric LLC difference.\n\nWinters Electric LLC also specializes in agricultural electrical services, catering to the unique needs of farms and ranches in the Nampa area.",
+        "localContext": "Nampa's agricultural roots and growing residential areas create a demand for diverse electrical services, from farm equipment wiring to home energy efficiency upgrades.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Star"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "Winters Electric LLC proudly serves the community of Caldwell, Idaho, providing reliable and professional electrical services to homes and businesses alike. As a city with a rich history and a growing economy, Caldwell presents a variety of electrical needs, from historic building renovations to modern commercial developments. Our team of licensed and experienced electricians is dedicated to meeting those needs with expertise and efficiency. We are committed to delivering safe, effective, and affordable solutions, ensuring your electrical systems operate flawlessly. \n\nWhether you're dealing with a faulty outlet, require a new electrical panel, or are looking to upgrade your lighting, Winters Electric LLC is here to help. We offer a comprehensive range of services, including electrical repairs, installations, panel upgrades, lighting solutions, and more. Our dedication to quality workmanship and customer satisfaction has made us a trusted name in the Caldwell community. Contact us today to schedule a consultation and experience the Winters Electric LLC difference.\n\nWinters Electric LLC is passionate about helping Caldwell residents improve their home's energy efficiency through services like smart home installations and LED lighting upgrades.",
+        "localContext": "Caldwell's blend of historical buildings and new construction requires a versatile electrical service provider capable of handling diverse wiring and power needs.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "Winters Electric LLC is pleased to offer its expert electrical services to the residents and businesses of Eagle, Idaho. Known for its beautiful homes and upscale commercial areas, Eagle demands high-quality electrical work that meets the highest standards. Our team of licensed and experienced electricians is dedicated to providing just that. We are committed to delivering safe, effective, and affordable solutions, ensuring your electrical systems are reliable and up to code. \n\nWhether you're dealing with a tripped circuit, need a new lighting system installed, or require a complete home rewiring, Winters Electric LLC is here to help. We offer a comprehensive range of services, including electrical repairs, installations, panel upgrades, lighting solutions, and more. Our dedication to quality workmanship and customer satisfaction has made us a trusted name in the Eagle community. Contact us today to schedule a consultation and experience the Winters Electric LLC difference.\n\nWinters Electric LLC is particularly experienced in handling the unique electrical needs of luxury homes in Eagle, including home automation systems and custom lighting designs.",
+        "localContext": "Eagle's affluent community requires sophisticated and reliable electrical solutions for its high-end homes and businesses.",
+        "nearbyAreas": [
+          "Star",
+          "Meridian",
+          "Boise"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "Winters Electric LLC is proud to serve the growing community of Star, Idaho, providing top-quality electrical services to homeowners and businesses. As Star continues to develop, the need for reliable and professional electrical services increases. Our team of licensed and experienced electricians is committed to meeting that need with expertise and efficiency. We are dedicated to delivering safe, effective, and affordable solutions, ensuring your electrical systems operate flawlessly. \n\nWhether you're dealing with a power surge, need a new electrical outlet installed, or are looking to upgrade your home's electrical panel, Winters Electric LLC is here to help. We offer a comprehensive range of services, including electrical repairs, installations, panel upgrades, lighting solutions, and more. Our dedication to quality workmanship and customer satisfaction has made us a trusted name in the Star community. Contact us today to schedule a consultation and experience the Winters Electric LLC difference.\n\nWinters Electric LLC also offers generator installation services to help Star residents prepare for potential power outages, ensuring continued comfort and safety.",
+        "localContext": "Star's rapid residential development necessitates efficient and reliable electrical services for new homes and expanding infrastructure.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "Winters Electric LLC is dedicated to providing the residents and businesses of Middleton, Idaho, with reliable and professional electrical services. As a close-knit community with a mix of residential and agricultural properties, Middleton requires a versatile electrical service provider. Our team of licensed and experienced electricians is committed to meeting the diverse electrical needs of Middleton with expertise and care. We are dedicated to delivering safe, effective, and affordable solutions, ensuring your electrical systems are reliable and up to code. \n\nWhether you're dealing with outdated wiring, need a new electrical system for your agricultural building, or are simply looking to improve your home's energy efficiency, Winters Electric LLC is here to help. We offer a comprehensive range of services, including electrical repairs, installations, panel upgrades, lighting solutions, and more. Our dedication to quality workmanship and customer satisfaction has made us a trusted name in the Middleton community. Contact us today to schedule a consultation and experience the Winters Electric LLC difference.\n\nWinters Electric LLC understands the unique electrical demands of Middleton's agricultural sector and offers specialized services for farms and ranches.",
+        "localContext": "Middleton's blend of residential and agricultural properties creates a need for diverse electrical services, from home repairs to farm equipment wiring.",
+        "nearbyAreas": [
+          "Star",
+          "Caldwell",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Emmett",
+        "slug": "emmett-id",
+        "state": "ID",
+        "content": "Winters Electric LLC is pleased to extend its expert electrical services to the community of Emmett, Idaho. As a town with a strong sense of community and a growing population, Emmett requires reliable and professional electrical services. Our team of licensed and experienced electricians is committed to meeting that need with expertise and dedication. We are dedicated to delivering safe, effective, and affordable solutions, ensuring your electrical systems are reliable and up to code. \n\nWhether you're dealing with a flickering light, need a new electrical system installed in your home, or are looking to upgrade your business's electrical panel, Winters Electric LLC is here to help. We offer a comprehensive range of services, including electrical repairs, installations, panel upgrades, lighting solutions, and more. Our dedication to quality workmanship and customer satisfaction has made us a trusted name in the Emmett community. Contact us today to schedule a consultation and experience the Winters Electric LLC difference.\n\nWinters Electric LLC understands the importance of safety and reliability in electrical systems, especially in areas prone to severe weather like Emmett, and provides services to mitigate those risks.",
+        "localContext": "Emmett’s growing residential base and rural surroundings need dependable electrical solutions for homes and businesses.",
+        "nearbyAreas": [
+          "Middleton",
+          "Star",
+          "Horseshoe Bend"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Winters Electric did a fantastic job upgrading our electrical panel. Our old panel was outdated and couldn't handle our modern appliances. The electrician was professional, knowledgeable, and explained everything clearly. The work was completed quickly and efficiently, and we haven't had any issues since. Highly recommended!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "I hired Winters Electric to install new recessed lighting in my kitchen. The electrician arrived on time, was courteous, and did a great job with the installation. The lighting looks fantastic, and it has completely transformed the space. My only minor complaint is that the cleanup could have been a little better, but overall, I'm very happy with the service.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "We had a power outage in our home, and Winters Electric was able to come out quickly and diagnose the problem. The electrician found a faulty breaker and replaced it promptly. He was very professional and explained everything clearly. I was impressed with their fast response time and excellent service.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Wiring Services",
+        "text": "Winters Electric did an excellent job wiring our new home. The electricians are very skilled and knowledgeable. The work was completed on time and within budget. Highly recommend them for any electrical needs.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Commercial Electrical Service",
+        "text": "Winters Electric has been our go-to electrician for our restaurant for years. They always respond quickly, and their work is top-notch. We recently had them install new lighting in our dining area, and it looks amazing. We appreciate their professionalism and reliability.",
+        "date": "2024-04-22"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Emergency Electrical Repair",
+        "text": "I had an electrical emergency late at night, and Winters Electric was able to come out within an hour. The electrician was able to quickly diagnose and fix the problem, preventing further damage to my home. I was very grateful for their prompt and professional service.",
+        "date": "2024-01-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Boise Electrician | Winters Electric LLC",
+        "description": "Reliable electrical services in Boise, ID. Panel upgrades, wiring, repairs and more. Call Winters Electric for expert solutions."
+      },
+      "about": {
+        "title": "About Winters Electric | Boise, ID",
+        "description": "Learn about Winters Electric LLC, a trusted electrician serving Boise. Committed to quality, safety, and community."
+      },
+      "services": {
+        "title": "Winters Electric Services | Boise, ID",
+        "description": "Comprehensive electrical services in Boise: repairs, installations, lighting, panel upgrades, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Winters Electric | Boise, ID",
+        "description": "Contact Winters Electric for reliable electrical services in Boise. Get a free quote for your project today!"
+      },
+      "reviews": {
+        "title": "Winters Electric Reviews | Boise, ID",
+        "description": "Read what our satisfied customers say about Winters Electric's reliable electrical services in Boise, Idaho."
+      },
+      "service-areas": {
+        "title": "Winters Electric Service Areas | Boise, ID",
+        "description": "Winters Electric provides expert electrical services throughout Boise and surrounding areas. Serving your community with integrity."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installations": "/images/service-electrical-installations.webp",
+      "lighting-services": "/images/service-lighting-services.webp",
+      "panel-upgrades": "/images/service-panel-upgrades.webp",
+      "wiring-services": "/images/service-wiring-services.webp",
+      "commercial-electrical": "/images/service-commercial-electrical.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installations": {
+        "src": "/images/service-electrical-installations.webp",
+        "srcset": "/images/service-electrical-installations-400w.webp 400w, /images/service-electrical-installations-800w.webp 800w, /images/service-electrical-installations-1200w.webp 1200w, /images/service-electrical-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-services": {
+        "src": "/images/service-lighting-services.webp",
+        "srcset": "/images/service-lighting-services-400w.webp 400w, /images/service-lighting-services-800w.webp 800w, /images/service-lighting-services-1200w.webp 1200w, /images/service-lighting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "panel-upgrades": {
+        "src": "/images/service-panel-upgrades.webp",
+        "srcset": "/images/service-panel-upgrades-400w.webp 400w, /images/service-panel-upgrades-800w.webp 800w, /images/service-panel-upgrades-1200w.webp 1200w, /images/service-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wiring-services": {
+        "src": "/images/service-wiring-services.webp",
+        "srcset": "/images/service-wiring-services-400w.webp 400w, /images/service-wiring-services-800w.webp 800w, /images/service-wiring-services-1200w.webp 1200w, /images/service-wiring-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical": {
+        "src": "/images/service-commercial-electrical.webp",
+        "srcset": "/images/service-commercial-electrical-400w.webp 400w, /images/service-commercial-electrical-800w.webp 800w, /images/service-commercial-electrical-1200w.webp 1200w, /images/service-commercial-electrical.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
